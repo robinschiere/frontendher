@@ -182,7 +182,18 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+GING GOED
+ - slider detailpagina
+ - polderboskdyk sectie
+ 
+ NOG LASTIG
+ - overloop tekst omschrijving
+ - overlays foto
+ 
+<img src="origineel/voortgang week 4/slider eigen.png" width="375px" alt="screenschot van eigen slider">
+<img src="origineel/voortgang week 4/slider origineel.png" width="375px" alt="screenshot van originele slider">
+<img src="origineel/voortgang week 4/slider html code.png" width="375px" alt="html code slider">
+<img src="origineel/voortgang week 4/slider css code.png" width="375px" alt="css code slider">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
@@ -233,8 +244,12 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
-
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://www.w3schools.com/cssref/pr_class_display.asp
+3. https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items
+4. https://css-tricks.com/almanac/properties/d/display/
+5. https://www.w3schools.com/css/css_pseudo_classes.asp 
+6. https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+ 
+ 
 </details>
