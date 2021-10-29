@@ -194,6 +194,8 @@ GING GOED
 <img src="origineel/voortgang week 4/slider origineel.png" width="375px" alt="screenshot van originele slider">
 <img src="origineel/voortgang week 4/slider html code.png" width="375px" alt="html code slider">
 <img src="origineel/voortgang week 4/slider css code.png" width="375px" alt="css code slider">
+ <img src="origineel/voortgang week 4/omschrijving origineel.png" width="375px" alt="omschrijving origineel">
+ <img src="origineel/voortgang week 4/omschrijving eigen.png" width="375px" alt="omschrijving eigen">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
