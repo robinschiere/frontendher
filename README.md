@@ -112,8 +112,19 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben al veel verder gekomen met de css van de opening op de homepagina. Ik vond het erg lastig om het formulier op te maken maar er hoeft nu niet zo veel meer te gebeuren.
+Dit is hoe het er uit ziet vs het origineel
+<img src="origineel/voortgang week 3/home opening origineel.png" width="375px" alt="screenschot van originele home opening">
+<img src="origineel/voortgang week 3/home opening eigen.png" width="375px" alt="screenschot van eigen home opening">
+Dit is de code waarmee ik tot het resultaat ben gekomen
+<img src="origineel/voortgang week 3/html code opening1.png" width="375px" alt="screenschot vanhtml code">
+<img src="origineel/voortgang week 3/html code opening2.png" width="375px" alt="screenschot van html code">
+<img src="origineel/voortgang week 3/html code opening3.png" width="375px" alt="screenschot van html code">
+<img src="origineel/voortgang week 3/css code opening1.png" width="375px" alt="screenschot van css">
+<img src="origineel/voortgang week 3/css code opening2.png" width="375px" alt="screenschot van css">
 
 
+ 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
