@@ -239,10 +239,20 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Ik heb in de laatste week nog een grote inhaalslag gemaakt en ben super trots op het resultaat! Ik heb een grid toegevoegd aan de homepagina waardoor deze mooi responsive is geworden. Ook is het mij eindelijk gelukt om een javascript interactie toe te voegen op de detailpagina waardoor er een huis "geliked" en "unliked" kan worden.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+ 
+<img src="origineel/week 5/home small.png" width="375px">
+<img src="origineel/week 5/home medium.png" width="375px">
+<img src="origineel/week 5/home big.png" width="375px">
+<img src="origineel/week 5/detail small.png" width="375px">
+<img src="origineel/week 5/detail medium.png" width="375px">
+<img src="origineel/week 5/detail like on.png" width="375px">
+
+ 
 
 </details>
 
